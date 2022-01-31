@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=Seongwoo%Park)
 
 - 👋 Hi, I’m @omegabunh
 - 👀 I’m interested in ...
