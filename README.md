@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder?color=auto)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
 - 👋 Hi, I’m @omegabunh
 - 👀 I’m interested in ...
