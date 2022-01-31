@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Seongwoo%Parktype=slice)
+![header](https://capsule-render.vercel.app/api?text=Seongwoo Park?type=slice)
 
 - 👋 Hi, I’m @omegabunh
 - 👀 I’m interested in ...
