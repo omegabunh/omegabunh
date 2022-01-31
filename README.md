@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=cylinder)
+![header](https://capsule-render.vercel.app/api?color=auto)
 - 👋 Hi, I’m @omegabunh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
