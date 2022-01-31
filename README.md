@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![omegabunh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegabunh&show_icons=true&theme=radical)
+![omegabunh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegabunh&show_icons=true&theme=highcontrast)
 
 <!---
 omegabunh/omegabunh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
